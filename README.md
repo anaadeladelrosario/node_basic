@@ -21,3 +21,7 @@ App with Node.js and Express Basics
    node index.js
 7. After running the command, load http://localhost:3000/ in a browser to see the output.
    Your done and ready to start building!!!
+
+   Tips: 
+   Use node --watch index.js built-in option to automatically restart the application when a file changes.
+   Use node --run test if you have scripts in your package.json. This flag flag allows you to run the specified command
